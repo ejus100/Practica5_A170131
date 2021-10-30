@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:/Users/1099571833/Desktop/9 semestre/Servicios web/unidad 3/Practica5_A170131/ejemplo1.xsl"?>
+<tenis>
+  <caracteristica>
+      <marca>adidas</marca>
+      <modelo>2020</modelo>
+      <color>blanco</color>
+      <tipo>deportivo</tipo>
+      <precio>1500</precio>
+      <talla>6</talla> 
+  </caracteristica>
+  <caracteristica>
+      <marca>nike</marca>
+      <modelo>2019</modelo>
+      <color>negro</color>
+      <tipo>deportivo</tipo>
+      <precio>1800</precio>
+      <talla>6</talla> 
+  </caracteristica>
+  <caracteristica>
+      <marca>puma</marca>
+      <modelo>2021</modelo>
+      <color>gris</color>
+      <tipo>deportivo</tipo>
+      <precio>2400</precio>
+      <talla>6</talla> 
+  </caracteristica>
+</tenis>
